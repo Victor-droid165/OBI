@@ -22,7 +22,7 @@ Solutions for some problems found on Olimpíada Brasileira de Informática.
     - [x] [Estoque](https://neps.academy/br/exercise/2319)
     - [x] [Subsequência](https://neps.academy/br/exercise/2320)
     - [x] [Toupeira](https://neps.academy/br/exercise/2323)
-- ### Fase 2
+- ### Fase 2 - Turno A
   * #### Programação Nível Júnior
     - [x] [Pizza da OBI](https://neps.academy/br/exercise/2437)
     - [x] [Código de Compressão](https://neps.academy/br/exercise/2435)
@@ -35,12 +35,12 @@ Solutions for some problems found on Olimpíada Brasileira de Informática.
     - [x] [Código de Compressão](https://neps.academy/br/exercise/2435)
     - [x] [Grupos de Trabalho](https://neps.academy/br/exercise/2436)
     - [x] [Intervalo Distinto](https://neps.academy/br/exercise/2438)
-    - [ ] [Barcos da Nlogônia](https://neps.academy/br/exercise/2439)
+    - [x] [Barcos da Nlogônia](https://neps.academy/br/exercise/2439)
   * #### Programação Nível Sênior
     - [x] [Prefixo](https://neps.academy/br/exercise/2437)
     - [x] [Grupos de Trabalho](https://neps.academy/br/exercise/2436)
     - [x] [Intervalo Distinto](https://neps.academy/br/exercise/2438)
-    - [ ] [Barcos da Nlogônia](https://neps.academy/br/exercise/2439)
+    - [x] [Barcos da Nlogônia](https://neps.academy/br/exercise/2439)
 - ### Fase 3
   * #### Programação Nível Júnior
   * #### Programação Nível 1
@@ -60,11 +60,21 @@ Solutions for some problems found on Olimpíada Brasileira de Informática.
   * #### Programação Nível 1
   * #### Programação Nível 2
   * #### Programação Nível Sênior
+    - [x] [Tanque de Combustível](https://neps.academy/br/exercise/2129)
+    - [x] [Pirâmide](https://neps.academy/br/exercise/2128)
+    - [x] [Subcadeias](https://neps.academy/br/exercise/2131)
+    - [x] [Viagem](https://neps.academy/br/exercise/2132)
+    
 - ### Fase 3
   * #### Programação Nível Júnior
   * #### Programação Nível 1
   * #### Programação Nível 2
   * #### Programação Nível Sênior
+    - [x] [Caravana](https://neps.academy/br/exercise/2171)
+    - [x] [Dígitos](https://neps.academy/br/exercise/2168)
+    - [x] [Quadrado](https://neps.academy/br/exercise/2174)
+    - [x] [Dona Minhoca](https://neps.academy/br/exercise/2172)
+    - [ ] [Construção de Rodovia](https://neps.academy/br/exercise/2173)
 
 ## 2021
 
